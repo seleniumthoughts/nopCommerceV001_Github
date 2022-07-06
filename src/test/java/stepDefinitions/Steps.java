@@ -61,7 +61,10 @@ public class Steps extends BaseClass{
 		 logger.info("-----Launching URL-----");
 		 logger.info("-----Launching URL-----");
 		 logger.info("-----Launching URL-----");
-       
+
+		 logger.info("-----Launching URL-----");
+		 logger.info("-----Launching URL-----");
+		
 	  
 	}
 	
